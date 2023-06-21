@@ -1,0 +1,2 @@
+db_url: postgres://dev:5432
+namespace: dev
