@@ -1,2 +1,2 @@
-db_url: postgres://dev:5432
+db_url: postgres://dev:5434
 namespace: dev
